@@ -1,6 +1,6 @@
 Oceania        |
 ---------------|---------------
- | Content from cell 2
+Creator | [Txuritan] (https://txuritan.github.io/)
 Content in the first column | content in the second column
 
 First Header | Content from cell 1 
