@@ -9,4 +9,4 @@ Second Header | Content from cell 2
 
 ||||
 |---|---|---|
-|**creator**| [link to Txuritan.github.io] (https://txuritan.github.io/) |
+|**creator**| [Txuritan] (https://txuritan.github.io/) |
