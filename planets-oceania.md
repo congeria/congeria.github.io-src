@@ -1,4 +1,4 @@
-Oceania        |
+Oceania        | Oceania
 ---------------|---------------
 Creator | [Txuritan] (https://txuritan.github.io/)
 Content in the first column | content in the second column
